@@ -6,4 +6,4 @@ This program detects breast cancer, based off of data. Breast Cancer (BC) is a c
 #            (2)https://seaborn.pydata.org/generated/seaborn.pairplot.html
 #            (3)https://seaborn.pydata.org/generated/seaborn.heatmap.html
 #            (4)https://towardsdatascience.com/building-a-simple-machine-learning-model-on-breast-cancer-data-eca4b3b99fa3
-#            (8)Data Set I used: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+#            (5)Data Set I used: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
